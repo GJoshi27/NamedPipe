@@ -5,5 +5,7 @@ which can be used for IPC between different
 processes.
 This is an implementation of Named Pipe(FIFO) in java
 using clipc external Library.
+With this code add clipc.jar file.
 Check and Download clipc source code and jar file
-from http://clipc.sourceforge.net/ 
+from http://clipc.sourceforge.net/.
+
